@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/crxjs/chrome-extension-tools",
+  "branch": "main",
+  "docusaurusRoot": "packages/vite-plugin-docs",
+  "configFile": "packages/vite-plugin-docs/docusaurus.config.js",
+  "translateCommand": "pnpm docusaurus write-translations",
+  "buildCommand": "pnpm run build",
+  "buildOutput": "build",
+  "packageManager": "pnpm"
+}
