@@ -1,0 +1,12 @@
+{
+  "extends": ["config:base"],
+  "timezone": "America/Chicago",
+  "schedule": ["every weekend"],
+  "packageRules": [
+    {
+      "matchPackageNames": ["@types/"],
+      "groupName": "types"
+    },
+    { "matchPackageNames": ["eslint"], "groupName": "eslint" }
+  ]
+}

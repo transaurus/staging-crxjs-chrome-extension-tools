@@ -1,0 +1,24 @@
+# Artifacts
+**/tests/**/.vite
+**/tests/**/.vite-build
+**/tests/**/dist*
+**/tests/artifacts
+.vscode
+**/chromium-data-dir-*
+**/tests/e2e/mv3-*-hmr/src
+**/__diff_output__
+TODO
+pnpm-global
+__image_snapshot_diffs__
+
+.DS_Store
+node_modules
+!**/glob-import/dir/node_modules
+dist-ssr
+TODOs.md
+*.log
+*.local
+packages/vite/LICENSE
+types
+**/.docusaurus
+crxjs.code-workspace

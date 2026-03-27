@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "CRXJS",
+    "description": "The title in the navbar"
+  },
+  "item.label.Vite Plugin": {
+    "message": "Vite Plugin",
+    "description": "Navbar item with label Vite Plugin"
+  },
+  "item.label.Rollup Plugin": {
+    "message": "Rollup Plugin",
+    "description": "Navbar item with label Rollup Plugin"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.NPM": {
+    "message": "NPM",
+    "description": "Navbar item with label NPM"
+  }
+}

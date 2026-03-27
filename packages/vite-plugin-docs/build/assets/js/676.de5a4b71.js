@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkvite_plugin_docs=globalThis.webpackChunkvite_plugin_docs||[]).push([[676],{2676(i,s,l){l.r(s)}}]);
