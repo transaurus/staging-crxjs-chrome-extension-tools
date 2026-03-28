@@ -1,0 +1,1 @@
+(globalThis.webpackChunkvite_plugin_docs=globalThis.webpackChunkvite_plugin_docs||[]).push([[999],{1833(s,i,c){"use strict";c.d(i,{A:()=>u});var l=c(7147);const u=l},8287(){}}]);

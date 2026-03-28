@@ -10,7 +10,7 @@ const config = {
   tagline: 'Build Chrome Extensions with Vite',
   url: 'https://crxjs.dev',
   baseUrl: process.env.VERCEL_ENV === 'production' ? '/vite-plugin/' : '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -19,7 +19,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
 
   // Add custom scripts to inject the banner

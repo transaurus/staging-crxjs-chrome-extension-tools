@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.vitePluginSidebar.category.Get Started in 90 Seconds": {
+    "message": "Get Started in 90 Seconds",
+    "description": "The label for category Get Started in 90 Seconds in sidebar vitePluginSidebar"
+  },
+  "sidebar.vitePluginSidebar.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar vitePluginSidebar"
+  },
+  "sidebar.vitePluginSidebar.category.Solid": {
+    "message": "Solid",
+    "description": "The label for category Solid in sidebar vitePluginSidebar"
+  },
+  "sidebar.vitePluginSidebar.category.Vanilla JavaScript": {
+    "message": "Vanilla JavaScript",
+    "description": "The label for category Vanilla JavaScript in sidebar vitePluginSidebar"
+  },
+  "sidebar.vitePluginSidebar.category.Vue": {
+    "message": "Vue",
+    "description": "The label for category Vue in sidebar vitePluginSidebar"
+  },
+  "sidebar.vitePluginSidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category Concepts in sidebar vitePluginSidebar"
+  }
+}

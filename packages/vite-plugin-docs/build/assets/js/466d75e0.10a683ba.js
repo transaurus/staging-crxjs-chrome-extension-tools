@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkvite_plugin_docs=globalThis.webpackChunkvite_plugin_docs||[]).push([[404],{1966(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
